@@ -9,3 +9,10 @@ Responsive Layout: The webpage is designed to be responsive, ensuring a seamless
 Thoughtful Message: A heartwarming message awaits your loved ones, conveying warm wishes and the spirit of Valentine's Day.
 
 Customizable: Feel free to customize the content, styles, and add your personal touch to make it uniquely yours.
+
+
+Contributions:
+Contributions are welcome! If you have ideas for improvement or want to add new features, feel free to open an issue or submit a pull request.
+
+Let love and joy fill the air as you share this delightful Valentine's Day wish card with those who hold a special place in your heart. Happy coding and happy Valentine's Day! 💖🎉
+
